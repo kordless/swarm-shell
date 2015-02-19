@@ -4,6 +4,6 @@ if [ "$1" = "/bin/sh" ]; then
   shift
 fi
 
-ARGS="-config /.ngrok -log stdout $FLASK_PORT_5000_TCP_ADDR:$FLASK_PORT_5000_TCP_PORT" 
+ARGS="-config /.ngrok -log stdout $SHELLINABOX_PORT_4200_TCP_ADDR:$SHELLINABOX_PORT_4200_TCP_PORT" 
 
 exec /bin/ngrok $ARGS

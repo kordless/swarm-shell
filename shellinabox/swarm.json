@@ -7,8 +7,8 @@
       "components": [
         {
           "component_name": "shellinabox",
-          "image": "registry.giantswarm.io/kord/shellinabox",
-          "ports": ["57575/tcp"]
+          "image": "registry.giantswarm.io/$kord/shellinabox",
+          "ports": ["4200/tcp"]
         }
       ]
     }
