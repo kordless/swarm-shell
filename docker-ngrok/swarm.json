@@ -1,0 +1,26 @@
+{
+  "app_name": "ngrok",
+  "services": [
+    {
+      "service_name": "ngrok",
+      "components": [
+        {
+          "component_name": "ngrok-component",
+          "image": "registry.giantswarm.io/$username/ngrok",
+          "ports": [4040],
+          "dependencies": [
+            {
+              "name": "shellinabox",
+              "port": 57575
+            }
+          ]
+        },
+        {
+          "component_name": "shellinabox",
+          "image": "registry.giantswarm.io/$username/shellinabox",
+          "ports": ["57575/tcp"]
+        }
+      ]
+    }
+  ]
+}
