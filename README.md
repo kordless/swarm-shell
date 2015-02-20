@@ -1,6 +1,6 @@
 ## She Sells Giant Swarm Shells 
 
-Ever want to terminal into a container? How about from the web?
+Ever want to terminal into a container? How about from your web browser?
 
 ![i know kung fu](http://i.imgur.com/SQIGyhQ.jpg)
 
