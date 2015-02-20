@@ -1,5 +1,7 @@
 ## Shelling Giant Swarm
 
+Ever want to ssh into a container? How about from the web? How about both!?!
+
 This cookbook example builds on the [swarm-ngrok](https://github.com/kordless/swarm-ngrok) example by replacing the [Flask application container](https://github.com/kordless/swarm-ngrok/tree/master/flask-static) with a container running [Shellinabox](https://github.com/jayschwa/shellinabox). The combination of these two containers provides a way to 'terminal' into one of the containers and gain shell access to the container.
 
 Here's a screenshot of a connection to a container running several panes using **screen**.
