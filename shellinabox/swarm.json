@@ -7,7 +7,7 @@
       "components": [
         {
           "component_name": "shellinabox",
-          "image": "registry.giantswarm.io/$kord/shellinabox",
+          "image": "registry.giantswarm.io/$username/shellinabox",
           "ports": ["4200/tcp"]
         }
       ]
