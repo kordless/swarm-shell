@@ -22,7 +22,7 @@ Again, the [swarm-ngrok guide](https://github.com/kordless/swarm-ngrok#prerequis
 
 Here's a quick and dirty walkthrough of launching the project on Giant Swarm. I go into a bit of detail on how to change passwords and running a few screens.
 
-[![](https://raw.githubusercontent.com/kordless/swarm-shell/master/assets/video.png)](https://vimeo.com/119916590)
+[![](https://raw.githubusercontent.com/kordless/swarm-shell/master/assets/video.png)](https://vimeo.com/120117064)
 
 ### Checkout and Launch
 
