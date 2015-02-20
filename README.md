@@ -4,6 +4,7 @@ This cookbook example builds on the [swarm-ngrok](https://github.com/kordless/sw
 
 Here's a screenshot of a connection to a container running several panes using **screen**.
 
+![](https://raw.githubusercontent.com/kordless/swarm-shell/master/assets/shell.png)
 
 If you want to install Shellinabox locally, [check out this blog post](http://www.tecmint.com/shell-in-a-box-a-web-based-ssh-terminal-to-access-remote-linux-servers/).
 
@@ -19,9 +20,9 @@ Again, the [swarm-ngrok guide](https://github.com/kordless/swarm-ngrok#prerequis
 
 ### Video Walkthrough
 
-Here's a quick and dirty walkthrough of launching the project on Giant Swarm. Man, that guy can talk a lot.
+Here's a quick and dirty walkthrough of launching the project on Giant Swarm. I go into a bit of detail on how to change passwords and running a few screens.
 
-[![](https://raw.githubusercontent.com/kordless/swarm-ngrok/master/assets/video.png)](https://vimeo.com/119916590)
+[![](https://raw.githubusercontent.com/kordless/swarm-shell/master/assets/video.png)](https://vimeo.com/119916590)
 
 ### Checkout and Launch
 
