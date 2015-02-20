@@ -24,7 +24,7 @@ Again, the [swarm-ngrok guide](https://github.com/kordless/swarm-ngrok#prerequis
 
 ### Video Walkthrough
 
-Here's a quick and dirty walkthrough of launching the project on Giant Swarm. I go into a bit of detail on how to change passwords and running a few screens.
+Here's a quick and dirty walkthrough of launching the project on Giant Swarm. I go into a bit of detail on how to change passwords and running a few screens. I've recently been trying to do all my videos in one take and try to hit 5 minutes on them. Apologies for rambling on a bit there toward the end.  :)
 
 [![](https://raw.githubusercontent.com/kordless/swarm-shell/master/assets/video.png)](https://vimeo.com/120117064)
 
